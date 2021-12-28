@@ -22,7 +22,7 @@ module.exports = {
     },
     ropsten : {
       url : "https://ropsten.infura.io/v3/8881bc37186e47b39264501765003f04",
-      accounts : [`<Add_YOUR_PRIVATE_KEY_HERE`]
+      accounts : [`0xf8e52494cf33f046983e04eb8c37992a45685035a29077e1e7279529f490e5d8`]
     }
   }
 };
